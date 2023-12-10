@@ -1,0 +1,22 @@
+body{
+    width: 97%;
+}
+nav{
+    padding:20px;
+    background-color: rgb(252, 47, 6);
+    margin-top: -0.4%;
+    width: 100%;
+
+}
+nav > a:hover{
+     border-bottom: 4px solid rgb(3, 245, 148);
+     padding-bottom: 11px;
+}
+a{
+    padding-left: 25px;
+    padding-right: 25px;
+    text-decoration: underline;
+    color: rgb(235, 6, 247);
+    font-size: 35px;
+
+}
